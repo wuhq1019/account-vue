@@ -137,9 +137,10 @@ export enum DICT_TYPE {
   INFRA_OPERATE_TYPE = 'infra_operate_type',
 
   // ========== crm 模块 ==========
+  TRADE_TYPE = 'trade_type',
+  TRADE_DIRECTION = 'trade_direction',
   CRM_PAYEE_TYPE = 'payee_type',
   CRM_FOLLOW_TYPE = 'follow_type',
-  CRM_CUSTOMER_SOURCE = 'customer_source',
   CRM_CUSTOMER_INDUSTRY = 'customer_industry',
   CRM_CUSTOMER_LEVEL = 'customer_level',
   CRM_FOLLOW_STATUS = 'follow_status',
